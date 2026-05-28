@@ -1,2 +1,2 @@
 # KerberosProtocolSimulator
-Educational project: Kerberos authentication protocol simulation via TCP Sockets (C#)
+Educational project: Implementation of cryptographic algorithms and standards (GOST, RSA, Fiat-Shamir, etc.) in C#
